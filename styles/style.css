@@ -112,7 +112,8 @@ body {
     margin-top: 95px;
     z-index: -1;
     top: 450px;
-    left: 600px;
+    left: 40.3%;
+    display: flex;
 }
 
 .line2{
@@ -124,7 +125,8 @@ body {
     z-index: -1;
     margin-top: 80px;
     top: 340px;
-    left: 660px;
+    left: 45%;
+    display: flex;
 }
 
 .line3{
@@ -135,8 +137,9 @@ body {
     transform: rotate(-45deg);
     z-index: -1;
     margin-top: 80px;
-    top: 420px;
-    left: 780px;
+    top: 450px;
+    left: 51%;
+    display: flex;
 }
 
 .rules{
